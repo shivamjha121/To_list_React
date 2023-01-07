@@ -1,0 +1,16 @@
+.list-item{
+    margin: 5px 0;
+    padding: 14px;
+    border: 2px solid white;
+    
+    color: white;
+    font-weight: 800;
+    background: #B0B457;
+    background: -moz-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: -webkit-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: linear-gradient(135deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+}
+
+.floatRight{
+    float: right;
+}

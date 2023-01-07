@@ -1,0 +1,20 @@
+.form{
+    /* background-color: rgb(130, 4, 180); */
+    color: whitesmoke;
+    font-weight: 800;
+    padding: 16px;
+    width: 360px;
+    margin: auto;
+    background: #B0B457;
+    background: -moz-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: -webkit-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: linear-gradient(135deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+}
+.form button{
+    float: right;
+}
+
+.form input{
+    width: 250px;
+    
+}

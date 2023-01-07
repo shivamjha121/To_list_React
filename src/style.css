@@ -1,0 +1,13 @@
+body{
+    background: #B0B457;
+    background: -moz-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: -webkit-linear-gradient(-45deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+    background: linear-gradient(135deg, #B0B457 0%, #11BABF 50%, #581C93 100%);
+}
+h1{
+    text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00, 2px 13px 15px rgba(171,59,255,0.2);
+    
+}
+div{
+    text-align: center;
+}
